@@ -1,4 +1,4 @@
-# extractAlipay [![Build Status](https://travis-ci.org/szj1006/extractAlipay.svg?branch=master)](https://travis-ci.org/szj1006/extractAlipay)
+# extractAlipay
 
 提取支付宝订单收款信息
 
